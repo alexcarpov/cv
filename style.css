@@ -1,0 +1,10 @@
+img {
+  width: 25%;
+  height: 15%;
+  border-radius: 50%;
+}
+
+#table-header {
+  text-align: left;
+  padding-left: 0px;
+}
